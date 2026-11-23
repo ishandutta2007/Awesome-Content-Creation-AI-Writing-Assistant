@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Content-Creation-AI-Writing-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Content-Creation-AI-Writing-Assistant?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Content-Creation-AI-Writing-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Content-Creation-AI-Writing-Assistant?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Content-Creation-AI-Writing-Assistant/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Content-Creation-AI-Writing-Assistant?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Content-Creation-AI-Writing-Assistant/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Content-Creation-AI-Writing-Assistant?style=flat-square" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Content-Creation-AI-Writing-Assistant/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -83,92 +83,92 @@ Below is a curated comparison of leading SaaS products, ordered by estimated bus
 
 ## 💻 Open-Source GitHub Projects
 
-All open-source repositories below are verified active projects, sorted in **descending order by GitHub star count**. Each entry features an official social star badge directly linking to that repository's stargazers page.
+All open-source repositories below are verified active projects, sorted in **descending order by GitHub Stars_Count**. Each entry features an official social Stars_Badge directly linking to that repository's stargazers page.
 
 ### 🏆 High-Star Flagships & Autonomous Research
 
-1. **[ollama/ollama](https://github.com/ollama/ollama)** [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
+1. **[ollama/ollama](https://github.com/ollama/ollama)** [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
    The industry-standard runtime to get up and running with local writing models (Llama 3, Qwen 2.5, Mistral, Gemma, DeepSeek) via an OpenAI-compatible API on macOS, Linux, and Windows.
 
-2. **[open-webui/open-webui](https://github.com/open-webui/open-webui)** [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
+2. **[open-webui/open-webui](https://github.com/open-webui/open-webui)** [![GitHub_Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
    Feature-rich self-hosted AI interface and writing workspace offering prompt pipelines, RAG document libraries, voice dictation, and multi-model drafting for local Ollama instances.
 
-3. **[AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+3. **[AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
    The leading open-source Notion alternative built in Flutter and Rust. Brings projects, wikis, and document writing together with privacy-first AI generation and local model support.
 
-4. **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+4. **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
    Next-generation open-source workspace and canvas-to-document writing studio. Features local-first data architecture, multi-modal editing, and integrated AI drafting blocks.
 
-5. **[typst/typst](https://github.com/typst/typst)** [![GitHub stars](https://img.shields.io/github/stars/typst/typst?style=social&color=white)](https://github.com/typst/typst/stargazers)  
+5. **[typst/typst](https://github.com/typst/typst)** [![GitHub_Stars](https://img.shields.io/github/stars/typst/typst?style=social&color=white)](https://github.com/typst/typst/stargazers)  
    A modern, markup-based typesetting system that is powerful and easy to learn. Delivers instant live compilation for technical reports, research papers, and books.
 
-6. **[laurent22/joplin](https://github.com/laurent22/joplin)** [![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)  
+6. **[laurent22/joplin](https://github.com/laurent22/joplin)** [![GitHub_Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)  
    Privacy-focused, open-source note-taking and long-form Markdown writing studio with end-to-end encryption (E2EE) and extensive AI plugin integrations.
 
-7. **[TryGhost/Ghost](https://github.com/TryGhost/Ghost)** [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
+7. **[TryGhost/Ghost](https://github.com/TryGhost/Ghost)** [![GitHub_Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
    The premier open-source publishing CMS and newsletter platform for independent content creators, journalists, and modern editorial teams.
 
-8. **[mudler/LocalAI](https://github.com/mudler/LocalAI)** [![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers)  
+8. **[mudler/LocalAI](https://github.com/mudler/LocalAI)** [![GitHub_Stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers)  
    Drop-in OpenAI-compatible REST API replacement for local CPU/GPU inferencing. Powers self-hosted AI writing bots, summarization endpoints, and embeddings.
 
-9. **[logseq/logseq](https://github.com/logseq/logseq)** [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
+9. **[logseq/logseq](https://github.com/logseq/logseq)** [![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
    Privacy-first, local-first outliner and interconnected knowledge base for connected note-taking, technical outlining, and AI-assisted thought structuring.
 
-10. **[outline/outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+10. **[outline/outline](https://github.com/outline/outline)** [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
     Fast, beautiful, collaborative open-source team knowledge base and Markdown document editor with real-time multiplayer editing and API automation.
 
-11. **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+11. **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
     Your open-source AI second brain. Deep-researches queries across personal notes, PDF files, and the web, outputting structured reports and cited drafts using local or cloud LLMs.
 
-12. **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** (formerly Danswer) [![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
+12. **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** (formerly Danswer) [![GitHub_Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
     Open-source enterprise AI search and content drafting platform. Connects to internal wikis, Google Docs, and Jira to generate factual, cited enterprise communications.
 
-13. **[stanford-oval/storm](https://github.com/stanford-oval/storm)** [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social&color=white)](https://github.com/stanford-oval/storm/stargazers)  
+13. **[stanford-oval/storm](https://github.com/stanford-oval/storm)** [![GitHub_Stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social&color=white)](https://github.com/stanford-oval/storm/stargazers)  
     Stanford's open-source LLM research engine that explores topics from diverse perspectives, surfaces citations, and synthesizes full-length Wikipedia-style reference articles.
 
-14. **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)  
+14. **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** [![GitHub_Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)  
     Autonomous deep-research agent that searches 20+ web sources concurrently to assemble unbiased, comprehensive, citation-rich research dossiers and articles.
 
 ---
 
 ### 📝 Markdown Studios, CMS & Knowledge Editors
 
-15. **[steven-tey/novel](https://github.com/steven-tey/novel)** [![GitHub stars](https://img.shields.io/github/stars/steven-tey/novel?style=social&color=white)](https://github.com/steven-tey/novel/stargazers)  
+15. **[steven-tey/novel](https://github.com/steven-tey/novel)** [![GitHub_Stars](https://img.shields.io/github/stars/steven-tey/novel?style=social&color=white)](https://github.com/steven-tey/novel/stargazers)  
     Notion-style WYSIWYG React editor equipped with AI-powered autocompletion slash commands, built with Tiptap and the Vercel AI SDK.
 
-16. **[Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)** [![GitHub stars](https://img.shields.io/github/stars/Zettlr/Zettlr?style=social&color=white)](https://github.com/Zettlr/Zettlr/stargazers)  
+16. **[Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)** [![GitHub_Stars](https://img.shields.io/github/stars/Zettlr/Zettlr?style=social&color=white)](https://github.com/Zettlr/Zettlr/stargazers)  
     Academic and professional Markdown authoring workbench supporting Zettelkasten knowledge management, citeproc reference integration, and distraction-free writing.
 
-17. **[quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)** [![GitHub stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=social&color=white)](https://github.com/quarto-dev/quarto-cli/stargazers)  
+17. **[quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)** [![GitHub_Stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=social&color=white)](https://github.com/quarto-dev/quarto-cli/stargazers)  
     Open-source scientific and technical publishing system built on Pandoc. Interweaves executable code (Python, R, Julia) and text into high-impact publications.
 
-18. **[KDE/ghostwriter](https://github.com/KDE/ghostwriter)** [![GitHub stars](https://img.shields.io/github/stars/KDE/ghostwriter?style=social&color=white)](https://github.com/KDE/ghostwriter/stargazers)  
+18. **[KDE/ghostwriter](https://github.com/KDE/ghostwriter)** [![GitHub_Stars](https://img.shields.io/github/stars/KDE/ghostwriter?style=social&color=white)](https://github.com/KDE/ghostwriter/stargazers)  
     Distraction-free Markdown text editor by KDE featuring Hemingway mode (disabling backspace), live HTML preview, and document statistics.
 
 ---
 
 ### ⚡ Grammar Checkers & Style Linters
 
-19. **[Automattic/harper](https://github.com/Automattic/harper)** [![GitHub stars](https://img.shields.io/github/stars/Automattic/harper?style=social&color=white)](https://github.com/Automattic/harper/stargazers)  
+19. **[Automattic/harper](https://github.com/Automattic/harper)** [![GitHub_Stars](https://img.shields.io/github/stars/Automattic/harper?style=social&color=white)](https://github.com/Automattic/harper/stargazers)  
     High-speed, offline-first grammar and style checker written in Rust by Automattic. Analyzes text locally inside editors and browsers in milliseconds with zero telemetry.
 
-20. **[languagetool-org/languagetool](https://github.com/languagetool-org/languagetool)** [![GitHub stars](https://img.shields.io/github/stars/languagetool-org/languagetool?style=social&color=white)](https://github.com/languagetool-org/languagetool/stargazers)  
+20. **[languagetool-org/languagetool](https://github.com/languagetool-org/languagetool)** [![GitHub_Stars](https://img.shields.io/github/stars/languagetool-org/languagetool?style=social&color=white)](https://github.com/languagetool-org/languagetool/stargazers)  
     The premier multilingual grammar, style, and spell checking engine supporting 30+ languages. Easily self-hostable via Docker with rich API and plugin ecosystems.
 
-21. **[errata-ai/vale](https://github.com/errata-ai/vale)** [![GitHub stars](https://img.shields.io/github/stars/errata-ai/vale?style=social&color=white)](https://github.com/errata-ai/vale/stargazers)  
+21. **[errata-ai/vale](https://github.com/errata-ai/vale)** [![GitHub_Stars](https://img.shields.io/github/stars/errata-ai/vale?style=social&color=white)](https://github.com/errata-ai/vale/stargazers)  
     Syntax-aware open-source prose linter written in Go. Enforces custom corporate style guides (Google, Microsoft, Proselint) directly across Markdown, AsciiDoc, and HTML in CI/CD.
 
 ---
 
 ### 🎭 Creative Fiction & Narrative Writing Studios
 
-22. **[SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)** [![GitHub stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social&color=white)](https://github.com/SillyTavern/SillyTavern/stargazers)  
+22. **[SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)** [![GitHub_Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social&color=white)](https://github.com/SillyTavern/SillyTavern/stargazers)  
     Advanced local LLM frontend and narrative studio for power users. Offers lorebook/world-info context injection, character cards, and branching story generation.
 
-23. **[LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp)** [![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social&color=white)](https://github.com/LostRuins/koboldcpp/stargazers)  
+23. **[LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp)** [![GitHub_Stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social&color=white)](https://github.com/LostRuins/koboldcpp/stargazers)  
     Zero-install single-file executable for running GGUF models locally with a dedicated KoboldAI narrative interface, adventure modes, and memory scratchpads.
 
-24. **[bitti-ai/slopus](https://github.com/bitti-ai/slopus)** [![GitHub stars](https://img.shields.io/github/stars/bitti-ai/slopus?style=social&color=white)](https://github.com/bitti-ai/slopus/stargazers)  
+24. **[bitti-ai/slopus](https://github.com/bitti-ai/slopus)** [![GitHub_Stars](https://img.shields.io/github/stars/bitti-ai/slopus?style=social&color=white)](https://github.com/bitti-ai/slopus/stargazers)  
     Local-first AI media harness tailored for autonomous planning, multi-step text generation, and iterative content editing.
 
 ---
