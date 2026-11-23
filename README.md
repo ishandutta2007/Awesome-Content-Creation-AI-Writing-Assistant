@@ -30,79 +30,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global AI writing assistant and generative content creation market is estimated at approximately $2.5B–$3.5B (growing at a 22–25% CAGR toward $20B+ over the next decade). Market dynamics feature a hybrid structure: foundational LLM infrastructure and native office-suite copilots (OpenAI, Microsoft, Google) are highly concentrated, while the vertical SaaS application and workflow layer remains moderately fragmented across specialized marketing, SEO/GEO, e-commerce, and editorial tools competing on domain-specific execution and workflow automation.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Jasper](https://jasper.ai)**  
-
-  Enterprise AI marketing and content creation platform featuring brand-voice enforcement, multi-channel campaign workflows, and collaborative document editing.
-
-
-
-- **[Copy.ai](https://copy.ai)**  
-
-  AI-powered GTM and content workflow automation platform turning briefs, transcripts, and research into structured blog posts, ad copy, and outreach sequences.
-
-
-
-- **[Writesonic](https://writesonic.com)**  
-
-  AI writing, SEO article generation, and GEO (Generative Engine Optimization) platform combining real-time web research, competitor analysis, and brand-tone customization.
-
-
-
-- **[Frase](https://frase.io)**  
-
-  SEO content research and AI writing assistant that analyzes top search results to generate structured content briefs, outlines, and topic-scored drafts.
-
-
-
-- **[Scalenut](https://scalenut.com)**  
-
-  End-to-end AI-powered SEO and content marketing platform offering keyword clustering, Cruise Mode long-form article drafting, and real-time NLP optimization.
-
-
-
-- **[Anyword](https://anyword.com)**  
-
-  Data-driven AI copywriting platform featuring predictive performance scoring for ad copy, landing pages, email subject lines, and social campaigns.
-
-
-
-- **[Hypotenuse AI](https://hypotenuse.ai)**  
-
-  AI content creation suite specialized in bulk e-commerce product descriptions, factual long-form articles, and brand-consistent marketing assets.
-
-
-
-- **[Rytr](https://rytr.me)**  
-
-  Lightweight, fast AI writing assistant offering 40+ copywriting templates, tone controls, plagiarism checks, and inline text expansion/rewriting.
-
-
-
-- **[ContentBot](https://contentbot.ai)**  
-
-  Automated AI content workflow and long-form blog writer supporting drag-and-drop content flows, paraphrasing, and scheduled content generation.
-
-
-
-- **[Peppertype (Pepper Content)](https://peppercontent.io)**  
-
-  Content marketing platform pairing AI copywriting assistants with editorial workflows, SEO audits, and content operations management.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits | Company Size (Est. Revenue / Valuation) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Jasper](https://jasper.ai)** | Enterprise AI marketing and content creation platform featuring brand-voice enforcement, multi-channel campaign workflows, and collaborative document editing. | $49/mo (billed annually) or $69/mo (billed monthly) for Pro tier (1 seat) | 7-day free trial (credit card required; full Pro feature access) | ~$1.5B Valuation / ~$85M–$95M ARR |
+| **[Copy.ai](https://copy.ai)** | AI-powered GTM and content workflow automation platform turning briefs, transcripts, and research into structured blog posts, ad copy, and outreach sequences. | $24/mo (billed annually) or $29/mo (billed monthly) for Chat tier (5 seats) | No permanent free plan; one-time 200 free trial workflow credits upon signup | ~$25M–$35M ARR / ~$14M total VC funding raised |
+| **[Anyword](https://anyword.com)** | Data-driven AI copywriting platform featuring predictive performance scoring for ad copy, landing pages, email subject lines, and social campaigns. | $39/mo (billed annually) or $49/mo (billed monthly) for Starter tier (1 seat) | 7-day free trial (unlimited copy generations, 1 brand voice, 50 predictive performance scores) | ~$84M Valuation / ~$15M–$20M ARR |
+| **[Pepper Content (Peppertype)](https://peppercontent.io)** | Content marketing platform pairing AI copywriting assistants with editorial workflows, SEO audits, and content operations management. | $35/mo (billed annually) or $49/mo (billed monthly) for AI Starter tier | 7-day free trial (Pepper Docs AI editor access, core writing templates) | ~$57M Valuation / ~$11M–$16M ARR |
+| **[Scalenut](https://scalenut.com)** | End-to-end AI-powered SEO and content marketing platform offering keyword clustering, Cruise Mode long-form article drafting, and real-time NLP optimization. | $21/mo (promotional annual billing) or $59/mo (billed monthly) for Starter tier | 7-day free trial (Cruise Mode long-form article generation, SEO editor, keyword research) | ~$10M ARR / ~$3.5M total VC funding raised |
+| **[Writesonic](https://writesonic.com)** | AI writing, SEO article generation, and GEO (Generative Engine Optimization) platform combining real-time web research, competitor analysis, and brand-tone customization. | $79/mo (billed annually) or $99/mo (billed monthly) for Starter tier (1 seat) | 7-day free trial (no credit card required; limited AI article generation and site audit trials) | ~$8M–$10M ARR / ~$250M estimated market valuation |
+| **[Rytr](https://rytr.me)** | Lightweight, fast AI writing assistant offering 40+ copywriting templates, tone controls, plagiarism checks, and inline text expansion/rewriting. | $7.50/mo (billed annually) or $9/mo (billed monthly) for Saver/Unlimited tier | Free Forever plan: 10,000 characters per month (~1,500–1,800 words), 40+ templates, 30+ languages, 20+ tones | Acquired by Copysmith / ~$2M–$5M ARR run-rate |
+| **[Hypotenuse AI](https://hypotenuse.ai)** | AI content creation suite specialized in bulk e-commerce product descriptions, factual long-form articles, and brand-consistent marketing assets. | $24/mo (billed annually) or $29/mo (billed monthly) for Individual tier | 7-day free trial (access to bulk product description generator, blog article drafts, image generation) | ~$3M ARR / Y Combinator backed (Seed) |
+| **[Frase](https://frase.io)** | SEO content research and AI writing assistant that analyzes top search results to generate structured content briefs, outlines, and topic-scored drafts. | $39/mo (billed annually) or $49/mo (billed monthly) for Starter tier (1 seat) | 7-day free trial (no credit card required; 1 domain, full SEO brief & outline builder access) | Acquired by Copysmith / ~$1.8M ARR |
+| **[ContentBot](https://contentbot.ai)** | Automated AI content workflow and long-form blog writer supporting drag-and-drop content flows, paraphrasing, and scheduled content generation. | $9/mo for Starter tier (or $0.50/1k words prepaid) | No recurring free plan; 10,000 free words introductory credit bonus on first purchase/signup | Bootstrapped / Micro-SaaS (<$1M ARR) |
 
 
 
